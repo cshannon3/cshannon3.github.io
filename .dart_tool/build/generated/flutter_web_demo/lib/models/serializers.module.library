@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["built_collection|lib/built_collection.dart","built_value|lib/serializer.dart","built_value|lib/standard_json_plugin.dart","flutter_web_demo|lib/models/models.dart"],"parts":["flutter_web_demo|lib/models/serializers.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["built_collection|lib/built_collection.dart","flutter_web|lib/material.dart","flutter_web_demo|lib/models/models.dart","flutter_web_demo|lib/networking/photo_error.dart","flutter_web_demo|lib/networking/photos_provider.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["built_collection|lib/built_collection.dart","built_value|lib/built_value.dart","built_value|lib/serializer.dart","flutter_web_demo|lib/models/serializers.dart"],"parts":["flutter_web_demo|lib/models/photo.g.dart"],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

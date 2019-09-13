@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","flutter_web_demo|lib/models/photo.dart","flutter_web_demo|lib/repositories/photos_repository.dart","flutter_web_demo|lib/screens/photo_details.dart","flutter_web_demo|lib/utils/free_functions.dart","flutter_web_demo|lib/widgets/photo_item.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}
