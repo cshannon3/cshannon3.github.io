@@ -1,6 +1,6 @@
 # Flutter Web App Demo
 
-[![Codemagic build status](https://api.codemagic.io/apps/5cdb3c1ed85907001941f21e/5cdb3c1ed85907001941f21d/status_badge.svg)](https://codemagic.io/apps/5cdb3c1ed85907001941f21e/5cdb3c1ed85907001941f21d/latest_build)
+Project was taken from minikin's [flutter-web-demo](https://github.com/minikin/flutter-web-demo). Planning to rewrite the code to create my own site
 
 Experimental responsive web app powered by Flutter and Dart.
 
